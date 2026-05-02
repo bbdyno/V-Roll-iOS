@@ -1,0 +1,56 @@
+/* Feature strings — synthesized into `FeatureStrings.<key>` by Tuist. */
+
+/* App brand */
+"app.title" = "V-Roll";
+"app.tagline" = "찍고. 붙이고. 공유하세요.";
+
+/* Home */
+"home.empty.title" = "릴을 만들어보세요";
+"home.empty.subtitle" = "라이브러리에서 클립 몇 개를 골라 편집할 준비를 마칠게요.";
+"home.clips.title" = "내 클립";
+"home.reorder.hint" = "드래그해서 순서를 바꿀 수 있어요.";
+"home.add.first" = "클립 추가";
+"home.add.more" = "클립 더 추가";
+"home.continue.action" = "계속";
+
+/* Editor */
+"editor.title" = "편집";
+"editor.preview.hint" = "아래 스티커를 탭하면 미리보기에 추가됩니다.";
+"editor.stickers.title" = "스티커";
+"editor.add.action" = "더보기";
+"editor.export.action" = "내보내기";
+
+/* Export */
+"export.title" = "내보내기";
+"export.preparing" = "영상을 준비하는 중…";
+"export.rendering" = "렌더링";
+"export.rendering.title" = "영상을 만들고 있어요";
+"export.rendering.subtitle" = "잠시만 기다려 주세요. 고화질 .mp4로 저장됩니다.";
+"export.completed.title" = "완료";
+"export.completed.subtitle" = "영상이 공유 준비를 마쳤어요.";
+"export.share" = "공유";
+"export.save.to.photos" = "사진에 저장";
+"export.done" = "완료";
+"export.failed.title" = "내보내기 실패";
+"export.retry" = "다시 시도";
+"export.saved.title" = "저장됨";
+"export.saved.message" = "병합된 영상이 사진 보관함에 저장되었어요.";
+
+/* Sticker picker */
+"sticker.picker.title" = "스티커";
+"sticker.picker.from.photos" = "사진에서 추가";
+"sticker.timeline.title" = "스티커 타임라인";
+"sticker.timeline.start" = "시작";
+"sticker.timeline.duration" = "지속 시간";
+
+"common.close" = "닫기";
+
+/* Trim */
+"trim.title" = "클립 트리밍";
+"trim.start" = "시작";
+"trim.end" = "끝";
+"trim.length" = "길이";
+"trim.save" = "트리밍 저장";
+
+/* Home extras */
+"home.tap.to.trim" = "클립을 탭해서 길이를 조절하세요.";

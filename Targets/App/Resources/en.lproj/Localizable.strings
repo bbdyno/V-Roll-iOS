@@ -1,0 +1,4 @@
+/* App-level strings — synthesized into `Strings.<key>` by Tuist. */
+
+"app.title" = "V-Roll";
+"app.tagline" = "Roll. Stitch. Share.";

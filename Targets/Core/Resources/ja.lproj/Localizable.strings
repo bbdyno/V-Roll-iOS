@@ -1,0 +1,7 @@
+/* Core-shared strings — synthesized into `Strings.<key>` by Tuist. */
+
+"common.cancel" = "キャンセル";
+"common.done" = "完了";
+"common.retry" = "再試行";
+"common.error.generic" = "問題が発生しました。再度お試しください。";
+"common.permission.photos" = "クリップの読み込みには写真へのアクセス権限が必要です。";

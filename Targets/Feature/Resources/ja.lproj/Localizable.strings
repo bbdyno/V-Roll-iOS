@@ -1,0 +1,56 @@
+/* Feature strings — synthesized into `FeatureStrings.<key>` by Tuist. */
+
+/* App brand */
+"app.title" = "V-Roll";
+"app.tagline" = "撮って。繋いで。シェア。";
+
+/* Home */
+"home.empty.title" = "リールを作ろう";
+"home.empty.subtitle" = "ライブラリからクリップを選んで編集の準備を整えましょう。";
+"home.clips.title" = "クリップ";
+"home.reorder.hint" = "ドラッグして並び順を変更できます。";
+"home.add.first" = "クリップを追加";
+"home.add.more" = "クリップを追加";
+"home.continue.action" = "次へ";
+
+/* Editor */
+"editor.title" = "編集";
+"editor.preview.hint" = "下のステッカーをタップしてプレビューに追加します。";
+"editor.stickers.title" = "ステッカー";
+"editor.add.action" = "もっと見る";
+"editor.export.action" = "書き出し";
+
+/* Export */
+"export.title" = "書き出し";
+"export.preparing" = "動画を準備中…";
+"export.rendering" = "レンダリング";
+"export.rendering.title" = "動画を作成しています";
+"export.rendering.subtitle" = "少々お待ちください。高画質 .mp4 で書き出します。";
+"export.completed.title" = "完了";
+"export.completed.subtitle" = "リールの共有準備が整いました。";
+"export.share" = "共有";
+"export.save.to.photos" = "写真に保存";
+"export.done" = "完了";
+"export.failed.title" = "書き出しに失敗しました";
+"export.retry" = "再試行";
+"export.saved.title" = "保存しました";
+"export.saved.message" = "結合した動画は写真ライブラリに保存されました。";
+
+/* Sticker picker */
+"sticker.picker.title" = "ステッカー";
+"sticker.picker.from.photos" = "写真から追加";
+"sticker.timeline.title" = "ステッカータイムライン";
+"sticker.timeline.start" = "開始";
+"sticker.timeline.duration" = "長さ";
+
+"common.close" = "閉じる";
+
+/* Trim */
+"trim.title" = "クリップをトリム";
+"trim.start" = "開始";
+"trim.end" = "終了";
+"trim.length" = "長さ";
+"trim.save" = "保存";
+
+/* Home extras */
+"home.tap.to.trim" = "クリップをタップしてトリミング";

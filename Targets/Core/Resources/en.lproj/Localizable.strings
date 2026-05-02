@@ -1,0 +1,7 @@
+/* Core-shared strings — synthesized into `Strings.<key>` by Tuist. */
+
+"common.cancel" = "Cancel";
+"common.done" = "Done";
+"common.retry" = "Retry";
+"common.error.generic" = "Something went wrong. Please try again.";
+"common.permission.photos" = "V-Roll needs access to Photos to import your clips.";

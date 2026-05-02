@@ -1,0 +1,25 @@
+# Xcode
+build/
+DerivedData/
+*.xcuserstate
+*.xcuserdatad/
+xcuserdata/
+
+# Tuist
+.build/
+**/Derived/
+*.xcodeproj
+*.xcworkspace
+!Tuist/
+!Tuist.swift
+
+# macOS
+.DS_Store
+
+# Swift Package Manager
+Package.resolved
+.swiftpm/
+
+# Provisioning
+*.mobileprovision
+*.p12

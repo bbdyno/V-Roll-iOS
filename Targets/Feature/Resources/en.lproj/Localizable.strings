@@ -1,0 +1,56 @@
+/* Feature strings — synthesized into `FeatureStrings.<key>` by Tuist. */
+
+/* App brand */
+"app.title" = "V-Roll";
+"app.tagline" = "Roll. Stitch. Share.";
+
+/* Home */
+"home.empty.title" = "Build your reel";
+"home.empty.subtitle" = "Pick a few clips from your library and we'll get them ready for editing.";
+"home.clips.title" = "Your clips";
+"home.reorder.hint" = "Drag a clip onto another to change the order.";
+"home.add.first" = "Add Clips";
+"home.add.more" = "Add More Clips";
+"home.continue.action" = "Continue";
+
+/* Editor */
+"editor.title" = "Edit";
+"editor.preview.hint" = "Tap a sticker below to drop it on the preview.";
+"editor.stickers.title" = "Stickers";
+"editor.add.action" = "Browse";
+"editor.export.action" = "Export";
+
+/* Export */
+"export.title" = "Export";
+"export.preparing" = "Preparing your video…";
+"export.rendering" = "Rendering";
+"export.rendering.title" = "Crafting your video";
+"export.rendering.subtitle" = "Hang tight — high-quality .mp4 incoming.";
+"export.completed.title" = "All set";
+"export.completed.subtitle" = "Your reel is ready to share.";
+"export.share" = "Share";
+"export.save.to.photos" = "Save to Photos";
+"export.done" = "Done";
+"export.failed.title" = "Render failed";
+"export.retry" = "Try again";
+"export.saved.title" = "Saved";
+"export.saved.message" = "The merged video is now in your photo library.";
+
+/* Sticker picker */
+"sticker.picker.title" = "Stickers";
+"sticker.picker.from.photos" = "From Photos";
+"sticker.timeline.title" = "Sticker Timeline";
+"sticker.timeline.start" = "Start";
+"sticker.timeline.duration" = "Duration";
+
+"common.close" = "Close";
+
+/* Trim */
+"trim.title" = "Trim Clip";
+"trim.start" = "Start";
+"trim.end" = "End";
+"trim.length" = "Length";
+"trim.save" = "Save Trim";
+
+/* Home extras */
+"home.tap.to.trim" = "Tap a clip to trim it.";
